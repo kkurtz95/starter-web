@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kyle Kurtz	kkurtz95@gmail.com	@hell
 
 # THANKS
 

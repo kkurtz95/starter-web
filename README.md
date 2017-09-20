@@ -17,4 +17,4 @@ hgkfdshiughfsdiughiufdhs, ipopojtinghobdinboijgpf???????????
 Please fork this repository and then issue Pull Request for review
 
 ###Copyright
-2017 Kyle Kurtz
+2017 Kyle Kurtz all rights reserved
